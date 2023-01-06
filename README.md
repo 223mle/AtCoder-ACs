@@ -9,4 +9,9 @@ AtCoderでACしたコードをcommitしていきます.
 
 <br>
 
-[AtCoder Account](https://atcoder.jp/users/ozro223)
+[AtCoder Account](https://atcoder.jp/users/ozro223)<br>
+
+
+環境構築
+* pyenv: Python3.8.13
+* poetry
