@@ -42,7 +42,7 @@
 	"input int n":
 	{
 		"scope": "python",
-		"prefix": "inputn",
+		"prefix": "ninput",
 		"body": "n = int(input())",
 		"description": "AtCoder input int n"
 	},
