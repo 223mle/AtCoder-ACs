@@ -27,6 +27,7 @@ Write Code Every Dayを実行・記録するためにcommitしていきます.
 
 
 
-環境構築
-* pyenv: Python3.8.13
-* poetry
+## 環境構築
+vscode上でコードを書いています.
+- pyenv: Python3.8.13
+- poetry
